@@ -24,7 +24,7 @@
   		<div class="media-content">
   			<div class="content">
   				<strong><%= tweeet.user.name %></strong><br />
-  				<small><%= tweeet.user.sername %></small><br/>
+  				<small><%= tweeet.user.username %></small><br/>
   				<p><%= tweeet.tweeet %></p>
   			</div>
         <% if user_signed_in? && current_user.id == tweeet.user_id %>
