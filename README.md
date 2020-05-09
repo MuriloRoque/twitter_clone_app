@@ -12,7 +12,7 @@ In this project I:
 - Used HTML, SASS and Bulma to create the views;
 - Used the following gems: Bulma, Devise, Gravatar Image, Simple Form, Better Errors and Guard LiveReload;
 - Set up a code linter in the repository;
-- Used Github flow;
+- Used gitflow;
 - Created an effective Ruby code that solved the problem;
 - Applied Ruby coding best practices;
 - Implemented basic OOP principles;
