@@ -30,7 +30,7 @@ Ruby on Rails, HTML, SASS and Bulma.
 
 ## Live Demo
 
-Not avaiable at the moment, it will be in here a future feature.
+[Live link](https://shrouded-reaches-36145.herokuapp.com/)
 
 ## Getting Started
 
